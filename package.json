@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "pip": "^0.0.1",
+        "prom-client": "^14.2.0",
+        "python": ""
+    },
+    "scripts": {
+        "start": "py serverMonitor.py"
+    },
+    "name": "server-monitor",
+    "version": "1.0.0",
+    "main": "serverMonitor.py",
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
